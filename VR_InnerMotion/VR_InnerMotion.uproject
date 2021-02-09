@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "UE4Duino",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
